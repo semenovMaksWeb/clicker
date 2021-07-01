@@ -17,22 +17,14 @@ Platform assembly: C:\Users\Maks\Documents\cliker-2d\build\1_Data\Managed\UnityE
 Loading C:\Users\Maks\Documents\cliker-2d\build\1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\Maks\Documents\cliker-2d\build\1_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading C:\Users\Maks\Documents\cliker-2d\build\1_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.021 seconds
+- Completed reload, in  0.016 seconds
 Platform assembly: C:\Users\Maks\Documents\cliker-2d\build\1_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Maks\Documents\cliker-2d\build\1_Data\Managed\System.dll (this message is harmless)
 desktop: 2560x1440 144Hz; virtual: 2560x1440 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.148100 ms
-153
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Exit
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
+UnloadTime: 2.311200 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 2c7c -> priority: 1 
-  Thread -> id: 27f8 -> priority: 1 
+  Thread -> id: 3188 -> priority: 1 
+  Thread -> id: 30fc -> priority: 1 

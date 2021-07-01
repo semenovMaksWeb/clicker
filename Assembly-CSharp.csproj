@@ -46,12 +46,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\script\Exit.cs" />
+     <Compile Include="Assets\script\Flags.cs" />
+     <Compile Include="Assets\script\Main.cs" />
+     <Compile Include="Assets\script\Okno.cs" />
      <Compile Include="Assets\script\file\Load.cs" />
      <Compile Include="Assets\script\file\Save.cs" />
-     <Compile Include="Assets\script\main.cs" />
+     <Compile Include="Assets\script\many\Many.cs" />
      <Compile Include="Assets\script\many\ManyUiMain.cs" />
      <Compile Include="Assets\script\many\MonetkaMain.cs" />
+     <Compile Include="Assets\script\menu\Exit.cs" />
+     <Compile Include="Assets\script\menu\GetMenuExit.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>G:/unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
